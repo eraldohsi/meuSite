@@ -1,0 +1,15 @@
+#cabecalho {text-align: center;
+	color:#cccc99;
+	background: #00ffff;
+}
+.menu {
+	background: gray;
+	color: green;
+	padding: 20px;
+	margin:0;
+}
+.menu a {text-decoration: none;}
+.menu li { display: inline-block; }
+
+
+
